@@ -1,0 +1,3 @@
+DARK
+LIGHT
+FIRE
